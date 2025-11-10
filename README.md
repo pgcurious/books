@@ -14,3 +14,16 @@ A First-Principles Journey to an Elegant Data Structure
 
 ### 4. [Inventing File I/O from First Principles](./file-io-intuition/)
 Building Intuition for File Operations - From Memory to Persistent Storage
+
+### 5. [Mathematical Proof: From Intuition to Certainty](./mathematical-proof-intuition/)
+Why Proof Matters Beyond the Classroom - For Every Developer
+
+---
+
+## Disclaimer
+
+**Concepts and Core Ideas**: Provided by the repository author (pgcurious)
+
+**Writing, Examples, and Structure**: Written by Claude (Anthropic AI)
+
+These books represent a collaborative approach to learning—combining human insight about what concepts matter with AI's ability to create comprehensive, example-rich explanations. The goal is to build intuition through first-principles thinking, making complex topics accessible to developers and learners.
