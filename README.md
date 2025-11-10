@@ -18,6 +18,9 @@ Building Intuition for File Operations - From Memory to Persistent Storage
 ### 5. [Mathematical Proof: From Intuition to Certainty](./mathematical-proof-intuition/)
 Why Proof Matters Beyond the Classroom - For Every Developer
 
+### 6. [Inventing Rest Assured from First Principles](./rest-assured-from-scratch/)
+The Journey from Manual HTTP Testing to Elegant API Verification - For Java Spring Boot Engineers
+
 ---
 
 ## Disclaimer
