@@ -21,6 +21,9 @@ Why Proof Matters Beyond the Classroom - For Every Developer
 ### 6. [Inventing Rest Assured from First Principles](./rest-assured-from-scratch/)
 The Journey from Manual HTTP Testing to Elegant API Verification - For Java Spring Boot Engineers
 
+### 7. [Spring Boot for Angular Developers: From Frontend to Full-Stack](./spring-boot-for-angular-devs/)
+Why Every Concept Exists and How It Connects to What You Already Know - Bridging the Frontend-Backend Gap
+
 ---
 
 ## Disclaimer
